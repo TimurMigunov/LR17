@@ -192,3 +192,5 @@ public class PipeScript : MonoBehaviour
 ```
 
 Вывод: в ходе проделанной работы была разработана игра Puzzle Plumber
+
+[ЛР17. Разработка игры Puzzle Plumber.zip](https://github.com/TimurMigunov/LR17/files/10127069/17.Puzzle.Plumber.zip)
